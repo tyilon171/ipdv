@@ -45,3 +45,9 @@ User: admin@admin.com
 Senha: 123456
 
 OBS: os usuários criados não possuem credenciais, logo não será possível logar com eles.
+
+Último passo: Dependendo de como quiser rodar, é possivel através do próprio local server que vem integrado com o laravel ou através da configuração de virtual host do WAMP/XAMP;
+
+Local laravel: `php artisan serve`
+
+WAMP/XAMP: criar o virtual host apontando para a pasta `ipdv/public` 
