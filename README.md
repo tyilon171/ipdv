@@ -22,6 +22,9 @@ Por ser um CRUD acredito que o ideal seria usar uma lib de banco para não escre
 
 Framework: Utilizando Laravel versão 7.x, ele automatiza vários pontos da aplicação, como por exemplo a session de logon da aplicação, session encriptografada, middlewares de csrf e etc.
 
+Deagrama MER: ![Modelo entidade relacionamento](https://github.com/tyilon171/ipdv/blob/master/mer.png?raw=true)
+
+
 ## SETUP
  - Necessário ter PHP7+ instalado
  - Necessário ter mysql instalado (WAMP/XAMP funcionam), para utilizar as constraints de tabela é necessário que a engine do banco seja a InnoDb
